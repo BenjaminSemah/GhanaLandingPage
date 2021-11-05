@@ -58,3 +58,39 @@ nav {
 .main-right {
     margin-right: 25px;
 }
+
+.welcome {
+    margin-bottom: 0;
+}
+
+.main-right h1 {
+    margin-top: 0;
+}
+
+.product h2 {
+    text-align: center;
+}
+
+.product p {
+    text-align: justify;
+    margin-left: 5em;
+    margin-right: 5em;
+}
+
+.list-items {
+    list-style: none;
+}
+
+.list-img {
+    height: 400px;
+    margin: .4em;
+}
+
+.product ul {
+    display: flex;
+    justify-content: center;
+}
+
+/* .describe button {
+    
+} */
